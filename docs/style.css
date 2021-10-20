@@ -440,3 +440,14 @@ footer p{
     text-align: center;
     margin-top: 20px;
 }
+/* Mobile navi */
+.mobile-navi-icon{
+    float: right;
+    margin-top: 30px;
+    cursor: pointer;
+    display: none;
+}
+.mobile-navi-icon i{
+    font-size: 200%;
+    color: #fff;
+}
