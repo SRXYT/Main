@@ -8,10 +8,10 @@
     .works-step {margin-bottom: 40px;}
     .works-step:last-of-type {margin-bottom: 60px;}
 
-    /* .long-copy{
+    .long-copy{
         width: 80%;
         margin-left: 10%;
-    } */
+    }
 
     .row,
     .hero-text-box{ padding: 0 4%}
@@ -20,8 +20,8 @@
         margin: 0 0 4% 0;
     }
 
-    .main-nav {display: none;}
-    .mobile-nav-icon {display: inline-block;}
+    /* .main-nav {display: none;}
+    .mobile-nav-icon {display: inline-block;} */
 
     .app-screen {width: 50%;}
     .icon-small {
