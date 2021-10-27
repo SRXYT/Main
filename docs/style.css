@@ -441,13 +441,13 @@ footer p{
     margin-top: 20px;
 }
 /* Mobile navi */
-.mobile-navi-icon{
+.mobile-nav-icon{
     float: right;
     margin-top: 30px;
     cursor: pointer;
     display: none;
 }
-.mobile-navi-icon i{
+.mobile-nav-icon i{
     font-size: 200%;
     color: #fff;
 }
