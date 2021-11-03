@@ -21,7 +21,7 @@
     }
 
     .main-nav {display: none;}
-    .mobile-nav-icon {display: inline-block;}
+    /* .mobile-nav-icon {display: inline-block;} */
 
     .main-nav {
         float: left;
