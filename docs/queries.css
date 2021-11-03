@@ -46,4 +46,12 @@
     .main-nav li{
         display: block;
     }
+
+    .main-nav li a:link,
+    .main-nav li a:visited{
+        display: block;
+        border: 0;
+        padding: 10px 0;
+        font-size: 100%;
+    }
 }
