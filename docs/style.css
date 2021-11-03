@@ -327,9 +327,9 @@ cite img{
     border-bottom: 1px solid #e8e8e8;
 }
 .plan-box div :first-child{
-    /* background-color: #fcfcfc; */
-    /* border-top-left-radius: 5px; */
-    /* border-top-right-radius: 5px; */
+    background-color: #fcfcfc;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
 }
 .step-box:last-child{
     text-align: center;
